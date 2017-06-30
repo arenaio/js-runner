@@ -1,6 +1,6 @@
 # js-runner
 
-docker container to run js solutions for arena.io.
+docker container to run js solutions for arena I/O.
 
 
 ## installation
@@ -13,5 +13,5 @@ docker container to run js solutions for arena.io.
 ## run
 
 ```bash
-# docker run -ti js-runner:<version>
+# docker run -ti --rm js-runner:<version>
 ```
